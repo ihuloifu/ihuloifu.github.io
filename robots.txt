@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihuloifu.github.io/ERh/sitemap_index.txt
+Sitemap: https://ihuloifu.github.io/ajK/sitemap_index.txt
+Sitemap: https://ihuloifu.github.io/iAd/sitemap_index.txt
+Sitemap: https://ihuloifu.github.io/jtR/sitemap_index.txt
